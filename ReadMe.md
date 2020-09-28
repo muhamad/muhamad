@@ -21,7 +21,7 @@ Hi! I'm Muhammad Aladdin. I'm a software architect, I develop applications in th
 
 ### Future projects
  - [ ] [OpenAssault](https://github.com/openassault): a 3rd person shooter video game.
- - [ ] [Open FIFA](https://github.com/openfifa): a football game.
+ - [ ] [iFootball](https://github.com/ifootball): a football game.
  - [ ] [Open Karting](https://github.com/openkarting): A karting race video game.
  - [ ] [RealmOS](https://github.com/realmos): an operating system kernel.
  - [ ] [RealmTC](https://github.com/realmtc): a tool chain for extensible programming language.
