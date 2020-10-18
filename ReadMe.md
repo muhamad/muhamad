@@ -20,8 +20,8 @@ Hi! I'm Muhammad Aladdin. I'm a software architect, I develop applications in th
  - [x] [Wikiless](https://github.com/wikiless): an extensible blog system to be hosted in github. 
 
 ### Future projects
- - [ ] [OpenAssault](https://github.com/openassault): a 3rd person shooter video game.
+ - [ ] [iAssault](https://github.com/iassault): a 3rd person shooter video game.
  - [ ] [iFootball](https://github.com/ifootball): a football game.
- - [ ] [Open Karting](https://github.com/openkarting): A karting race video game.
+ - [ ] [iKarting](https://github.com/ikarting): A karting race video game.
  - [ ] [RealmOS](https://github.com/realmos): an operating system kernel.
  - [ ] [RealmTC](https://github.com/realmtc): a tool chain for extensible programming language.
