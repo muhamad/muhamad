@@ -15,13 +15,18 @@ Hi! I'm Muhammad Aladdin. I'm a software architect, I develop applications in th
 - [x] Company: [NoRealm](https://github.com/norealm) in the near future I hope!
 
 ### I’m currently working on
- - [x] [Phi Platform](https://github.com/phiplatform): Data access technology for .net
- - [x] [SRP](https://github.com/srpsys): a closed source ERP system in c#.
- - [x] [Wikiless](https://github.com/wikiless): an extensible blog system to be hosted in github. 
+ - [x] [Phi Platform](https://github.com/phiplatform): Data access technology for .net.
+ - [x] [Wikiless](https://github.com/wikiless): An extensible blog system to be hosted in github. 
+ - [x] [Mqal](https://github.com/mqal): My personal blog based on [Wikiless project](https://github.com/wikiless). 
+ - [x] [BeeDb](https://github.com/beedb): An embedded database written in c#.
+
+### Closed source
+ - [x] [Interact](https://github.com/**): A [NoRealm](https://github.com/norealm) extensible ERP system.
+ - [x] [LotsQ](https://github.com/lotsq): A [NoRealm](https://github.com/norealm) Q&A platform for teams of any size.
 
 ### Future projects
  - [ ] [iAssault](https://github.com/iassault): a 3rd person shooter video game.
  - [ ] [iFootball](https://github.com/ifootball): a football game.
  - [ ] [iKarting](https://github.com/ikarting): A karting race video game.
- - [ ] [RealmOS](https://github.com/realmos): an operating system kernel.
+ - [ ] [RealmOS](https://github.com/realmos): an operating system kernel for server/client computers and mobile.
  - [ ] [RealmTC](https://github.com/realmtc): a tool chain for extensible programming language.
