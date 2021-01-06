@@ -21,7 +21,6 @@ Hi! I'm Muhammad Aladdin. I'm a software architect, I develop applications in th
  - [x] [BeeDb](https://github.com/beedb): An embedded database written in c#.
 
 ### Closed source
- - [x] [Interact](https://github.com/nract): A [NoRealm](https://github.com/norealm) extensible ERP system.
  - [x] [LotsQ](https://github.com/lotsq): A [NoRealm](https://github.com/norealm) Q&A platform for teams of any size.
 
 ### Future projects
