@@ -14,7 +14,7 @@
 
 ### I'm currently working on
  - [x] [Phi Platform](https://github.com/phiplatform): Data access technology for .net.
- - [x] [Expression Lite](https://github.com/norealm/expression-lite)
+ - [x] [Expression Lite](https://github.com/norealm/expression-lite): A powerful expression compiler for .NET
  - [x] [Mqal](https://github.com/mqal): My personal blog. 
  
 ### Future projects
@@ -24,7 +24,7 @@
  - [ ] [iFootball](https://github.com/ifootball): a 3d football game.
 
 ### Skills
-#### Programming and script Languages 
+#### Programming and Script Languages 
 - [x86-64 Assmebly](https://en.wikipedia.org/wiki/X86-64)
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
