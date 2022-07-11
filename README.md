@@ -21,7 +21,7 @@
  - [ ] [BeeDb](https://github.com/beedb): A database system written in c#.
  - [ ] [BeeMQ](https://github.com/beemq): A message queue written in c#.
  - [ ] [RealmOS](https://github.com/realmos): an operating system kernel for server/client computers and mobile.
- - [ ] [iFootball](https://github.com/ifootball): a 3d football game.
+ - [ ] [OpenFIFA](https://github.com/openfifa): a football game.
 
 ### Skills
 #### Programming and Script Languages 
