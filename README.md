@@ -1,5 +1,10 @@
 ## Hi there
 
+### Statistics
+[![](https://gpvc.arturio.dev/muhamad)](https://imuhamad.com)
+
+[![](https://awesome-github-stats.azurewebsites.net/user-stats/muhamad?theme=github-dark)](https://imuhamad.com)
+
 ### Short info about me
 - [x] Name: **Muhammad Aladdin**
 - [x] Title: **.NET Software Architect**
