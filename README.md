@@ -14,15 +14,15 @@
 - [x] Degree: **Bachelor of information technology**
 - [x] Website: [imuhamad.com](https://imuhamad.com)
 - [x] Email: [work@imuhamad.com](mailto:work@imuhamad.com)
-- [x] Languages: **Egyption** (native), Arabic (native), English (I can talk!)
+- [x] Languages: **Egyption** (native), Arabic (let's try it!), English (I can talk!)
 - [x] Company: [NoRealm](https://github.com/norealm) in the near future I hope!
 
 ### I'm currently working on
- - [x] [Phi Platform](https://github.com/phiplatform): Data access technology for .net.
+ - [x] [Phi Platform](https://github.com/phiplatform): .NET data access technology which replace ADO.NET.
  - [x] [Expression Lite](https://github.com/norealm/expression-lite): A powerful expression compiler for .NET
  - [x] [Mqal](https://github.com/mqal): My personal blog. 
  
-### Future projects
+### Future projects (don't hold your breath)
  - [ ] [BeeDb](https://github.com/beedb): A database system written in c#.
  - [ ] [BeeMQ](https://github.com/beemq): A message queue written in c#.
  - [ ] [RealmOS](https://github.com/realmos): an operating system kernel for server/client computers and mobile.
