@@ -20,8 +20,7 @@
 ### I'm currently working on
  - [x] [Phi Platform](https://github.com/phiplatform): .NET data access technology which replace ADO.NET.
  - [x] [Expression Lite](https://github.com/norealm/expression-lite): A powerful expression compiler for .NET
- - [x] [Mqal](https://github.com/mqal): My personal blog. 
- 
+
 ### Future projects (don't hold your breath)
  - [ ] [OpenFIFA](https://github.com/openfifa): a football game.
 
