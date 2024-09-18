@@ -23,8 +23,6 @@
  - [x] [Mqal](https://github.com/mqal): My personal blog. 
  
 ### Future projects (don't hold your breath)
- - [ ] [BeeDb](https://github.com/beedb): A database system written in c#.
- - [ ] [BeeMQ](https://github.com/beemq): A message queue written in c#.
  - [ ] [RealmOS](https://github.com/realmos): an operating system kernel for server/client computers and mobile.
  - [ ] [OpenFIFA](https://github.com/openfifa): a football game.
 
