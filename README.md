@@ -13,7 +13,7 @@
 - [x] Hobbies: **Video Games, Reading**
 - [x] Degree: **Bachelor of information technology**
 - [x] Website: [imuhamad.com](https://imuhamad.com)
-- [x] Email: [work@imuhamad.com](mailto:work@imuhamad.com)
+- [x] Email: [work@muhamad.me](mailto:work@muhamad.me)
 - [x] Languages: **Egyption** (native), Arabic (let's try it!), English (I can talk!)
 - [x] Company: [NoRealm](https://github.com/norealm) in the near future I hope!
 
@@ -38,6 +38,7 @@
 - [HTML](https://en.wikipedia.org/wiki/HTML#:~:text=The%20HyperText%20Markup%20Language%20or,(HyperText%20Markup%20Language))
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 - [Go](https://en.wikipedia.org/wiki/Go_(programming_language))
+- [Zig](https://en.wikipedia.org/wiki/Zig_(programming_language))
 - [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 - [D](https://en.wikipedia.org/wiki/D_(programming_language))
 - [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
