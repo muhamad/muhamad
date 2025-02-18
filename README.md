@@ -18,11 +18,11 @@
 - [x] Company: [NoRealm](https://github.com/norealm) in the near future I hope!
 
 ### I'm currently working on
- - [x] [Phi Platform](https://github.com/phiplatform): .NET data access technology which replace ADO.NET.
+ - [x] [NoRealm Data](https://github.com/norealm-data): .NET data access technology which replace ADO.NET.
  - [x] [Expression Lite](https://github.com/norealm/expression-lite): A powerful expression compiler for .NET
 
 ### Future projects (don't hold your breath)
- - [ ] [OpenFIFA](https://github.com/openfifa): a football game.
+ - [ ] [FickFC](https://github.com/kickfc): a free to play football game.
 
 ### Skills
 #### Programming and Script Languages 
