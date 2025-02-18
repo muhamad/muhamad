@@ -13,7 +13,7 @@
 - [x] Hobbies: **Video Games, Reading**
 - [x] Degree: **Bachelor of information technology**
 - [x] Website: [imuhamad.com](https://imuhamad.com)
-- [x] Email: [work@muhamad.me](mailto:work@muhamad.me)
+- [x] Email: [os@muhamad.me](mailto:os@muhamad.me)
 - [x] Languages: **Egyption** (native), Arabic (let's try it!), English (I can talk!)
 - [x] Company: [NoRealm](https://github.com/norealm) in the near future I hope!
 
